@@ -26,7 +26,8 @@ macOS version: 11.0.1(20B50)
 * [x] Core display hardware acceleration
 * [x] Onboard sound card
 * [x] Onboard network card
-* [x] Wifi, BT, AirDrop
+* [-] Wifi, BT, AirDrop
 ### Note
+* Airdrop can show devices but can not send/receive file
 * layout-id = 1
 * smbios 20,2
