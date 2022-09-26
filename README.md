@@ -14,7 +14,7 @@ hackintosh opencore efi rog b660g i5 12400 ddr5
 
 OpenCore: 0.8.3
 
-macOS version: 11.0.1(20B50)
+macOS version: 12.6
 ### System installation
 * Follow step by step in this [guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 * If your hardware is the same as me:
